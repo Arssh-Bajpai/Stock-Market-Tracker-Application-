@@ -1,6 +1,3 @@
-Here are comprehensive README files for each of the projects listed in your resume:
-
----
 
 ## Stock Portfolio Manager
 
